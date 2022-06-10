@@ -1,2 +1,1 @@
-# zefoy.com
-zefoy.com all files + clone
+# added hidden-js that does request to api
